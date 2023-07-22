@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@nextui-org/react": "^1.0.0-beta.13",
+    "antd": "^5.7.2",
     "autoprefixer": "10.4.14",
     "next": "13.4.12",
     "postcss": "8.4.27",
