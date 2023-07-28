@@ -26,16 +26,11 @@ To run the Uniswap clone locally or deploy it to a test network, follow these st
 
 2. Clone the Repository: Clone this Git repository to your local machine using the following command:
 
-```
-git clone https://github.com/your-username/uniswap-clone.git
-```
+
 
 3. Install Dependencies: Navigate to the project directory and install the required dependencies with npm:
 
-```
-cd uniswap-clone
-npm install
-```
+
 
 4. Configure Ethereum Node: Connect the Uniswap clone to an Ethereum node. You can use a local development node or connect to a test network like Ropsten or Rinkeby.
 
