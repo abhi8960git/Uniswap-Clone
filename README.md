@@ -2,6 +2,9 @@ Sure! Here's a sample README file for an Uniswap clone Git repository:
 
 # Uniswap Clone
 
+![Image Alt Text](https://res.cloudinary.com/dmlaqelqw/image/upload/v1690631332/Screenshot_75_y48hix.png)
+
+
 ## Overview
 
 This repository contains a clone of the Uniswap decentralized exchange (DEX) built on the Ethereum blockchain. The Uniswap clone aims to replicate the core functionality of the original Uniswap platform, allowing users to swap Ethereum-based tokens directly from their wallets.
