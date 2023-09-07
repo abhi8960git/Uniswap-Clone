@@ -2,6 +2,7 @@ import React from 'react'
 import coin from '../../public/currency.png'
 import Link from 'next/link'
 import Image from 'next/image'
+import TokenList from '../TokenList'
 function Navbar() {
   return (
     <header>
@@ -23,6 +24,7 @@ function Navbar() {
         <div className='connectButton'>
           Connect
         </div>
+        <TokenList/>
       </div>
     </header>
   )
